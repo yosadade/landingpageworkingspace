@@ -38,15 +38,17 @@
     color: white;
     text-align: center;
     margin-top: 150px;
-    font-weight: 200 ; /* gak bisa */
+    font-weight: 100; /* gak bisa */
     font-size: 31px;
     margin-bottom: 30px;
     text-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 
 .jumbotron .display-4 span {
-    font-weight: 700; /* gak bisa */
+    font-weight: bold; /* gak bisa */
+    font-size: 70px;
 }
 
 /* Info Panel*/
